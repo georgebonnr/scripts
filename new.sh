@@ -1,7 +1,7 @@
 #!/bin/bash
 
-# usage: ~/scripts/new-git.sh [repo-name]
-# usage: ~/scripts/new-git.sh [repo-name] npm
+# usage: ~/scripts/new.sh [repo-name]
+# usage: ~/scripts/new.sh [repo-name] npm
 
 CLONE_FROM="git-stub"
 NEW_REPO_NAME=$1
